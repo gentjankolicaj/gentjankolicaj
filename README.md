@@ -2,7 +2,10 @@
 - 👀 I’m interested in software & math
 - 🌱 I’m currently learning golang,solidity & blockchain tech
 - 💞️ I’m looking to collaborate on java projects
-- 📫 How to reach me ...
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=gentjankolicaj.gentjankolicaj)
+
+
 
 <!---
 gentjankolicaj/gentjankolicaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

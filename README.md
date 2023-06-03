@@ -4,8 +4,6 @@
 - 🌱 I’m currently learning golang,solidity & blockchain tech
 - 💞️ I’m looking to collaborate on java projects
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=gentjankolicaj.gentjankolicaj)
-
 
 ![](https://github-profile-trophy.vercel.app/?username=gentjankolicaj&column=3&margin-w=15&margin-h=15)
 

@@ -1,15 +1,11 @@
 
 - 👋 Hi, I’m Gentjan Koliçaj
 - 👀 I’m interested in software & math
-- 🌱 I’m currently learning golang,solidity & blockchain tech
-- 💞️ I’m looking to collaborate on java projects
+- 🌱 I’m currently learning cryptography & blockchain
+- 💞️ I’m looking to collaborate on java | rust projects
 
 
 ![](https://github-profile-trophy.vercel.app/?username=gentjankolicaj&column=3&margin-w=15&margin-h=15)
-
-
-
-
 
 
 <!---

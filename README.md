@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 
--   I’m currently working on java...
--    I’m currently learning cryptography, blockchain, formal language...
--    I’m interested in math,computer science, algorithms...
+- I’m currently working on java...
+- I’m currently learning about blockchain, formal lang, cryptography...
+- I’m interested in math,computer science, algorithms...
 
 ### ⚡️ Some certs:
 <table>
@@ -17,6 +17,9 @@
 <td><a target="_blank" href="https://www.credly.com/badges/7b08ac4c-4b22-4d33-a066-8bc0c56a5228"><img src="https://images.credly.com/size/340x340/images/0a724b53-458c-448a-8ab3-84289186826e/seunited-badge.png" width="100"></a></td>
 
 <td><a target="_blank" href="https://www.credly.com/badges/02db3d88-ec9c-4301-a253-711f0c20a3db"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" 
+width="100"></a></td>
+
+<td><a target="_blank" href="https://www.credly.com/badges/dc9bad49-4d31-4eb7-99a1-07da81b3ca5c"><img src="https://images.credly.com/size/340x340/images/c2137484-b8fa-4c38-b1ca-a2618a7360e9/Blockchain_Essentials.png" 
 width="100"></a></td>
 
 </tr>
